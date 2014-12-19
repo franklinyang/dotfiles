@@ -1,0 +1,15 @@
+[alias]
+  br = branch
+  co = checkout
+  cp = cherry-pick
+  st = status
+  su = submodule update
+[user]
+	name = Franklin
+	email = franklin@flatiron.com
+[core]
+	editor = vim
+[color]
+    ui = true
+    status = auto
+    branch = auto 

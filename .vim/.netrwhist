@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/franklin/code/flatiron/blocks/blocks'
+let g:netrw_dirhist_2='/Users/franklin/code/flatiron/blocks'
+let g:netrw_dirhist_3='/Users/franklin/code/flatiron/chef/cookbooks/postgresql/recipes'
+let g:netrw_dirhist_4='/Users/franklin/code/flatiron/chef/cookbooks/postgresql'
+let g:netrw_dirhist_5='/Users/franklin/code/flatiron/blocks/blocks/provider/common/mayweather/stage_report'
+let g:netrw_dirhist_6='/Users/franklin/code/flatiron/analytics_portal/analytics_portal/tests/unit/node_modules'
+let g:netrw_dirhist_7='/Users/franklin/code/flatiron'
